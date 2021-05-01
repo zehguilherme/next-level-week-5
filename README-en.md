@@ -25,19 +25,19 @@
 </div>
 
 <h4 align="center">
-  O melhor para você ouvir, sempre!
+  The best for you to hear, always!
 <h4>
 
 <p align="center">
-    <a href="#-anotações">Anotações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-notes">Notes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licença">Licença</a>
+    <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-starting">Starting</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-license">License</a>
 </p>
 
-## 📑 Anotações
+## 📑 Notes
 
 - [Notion](https://www.notion.so/zehguilherme/Next-Level-Week-5-32a1e46f506d407a9e86ebfd522536d0)
 - [Whimsical](https://whimsical.com/next-level-week-5-RGBHh9jp2dKZSP2o8c3Wa)
@@ -46,7 +46,7 @@
 
 - [Figma](https://www.figma.com/file/otxw6BjOMnV5MJvLf14KEB/Podcastr?node-id=160%3A2761)
 
-## 🚀 Tecnologias
+## 🚀 Technology
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
@@ -55,40 +55,40 @@
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [json-server](https://github.com/typicode/json-server)
 - [Axios](https://github.com/axios/axios)
-- [Context API](https://pt-br.reactjs.org/docs/context.html) - Formas de compartilhar informações entre vários componentes de uma aplicação
+- [Context API](https://pt-br.reactjs.org/docs/context.html) - Ways to share information between various components of an application
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [rc-slider](https://www.npmjs.com/package/rc-slider)
-- [Manipulação de áudio](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
+- [Audio manipulation](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
 
-## ⌛ Começando
+## ⌛ Starting
 
-Em primeiro lugar, você precisa ter o *node* e *yarn* (ou *npm*) instalado em sua máquina.
+First, you need to have *node* and *yarn* (or *npm*) installed on your machine.
 
-*Se você decidir usar o npm, não se esqueça de deletar yarn.lock nas pastas*
+*If you decide to use npm, don't forget to delete yarn.lock in the folders*
 
-Então você pode clonar o repositório.
+Then you can clone the repository.
 
 `git clone https://github.com/zehguilherme/next-level-week-5`
 
-Inicie a aplicação.
+Launch the application.
 
 1. `cd podcastr-next`
 2. `yarn ou npm install`
 3. `yarn dev ou npm run dev`
 
-## 🤔 Como contribuir
+## 🤔 How to contribute
 
-1. Faça um fork desse repositório;
-2. Crie uma branch com a sua feature: `git checkout -b minha-feature`;
-3. Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-4. Faça push para a sua branch: `git push origin minha-feature`;
-5. Crie um pull request;
-6. Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+1. Fork this repository;
+2. Create a branch with your feature: `git checkout -b my-feature`;
+3. Commit your changes: `git commit -m "feat: My new feature"`;
+4. Push to your branch: `git push origin my-feature`;
+5. Create a pull request;
+6. After the merge of your pull request is done, you can delete your branch.
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob a licença MIT. Veja a [licença](LICENSE) para mais informações.
+This project is under the MIT license. See the [license](LICENSE) for more information.
 
 ---
 
-Feito com 💟 por José Guilherme Paro Monteiro Tomaine 👋 [Fale comigo!](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
+Made with 💟 by José Guilherme Paro Monteiro Tomaine 👋 [Talk to me!](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
